@@ -1,0 +1,4 @@
+*.nii*
+working_dir*
+*.ipynb_checkpoints*
+output*
