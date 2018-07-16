@@ -1,4 +1,5 @@
 *.nii*
-working_dir*
+working*
 *.ipynb_checkpoints*
 output*
+datasinker*
